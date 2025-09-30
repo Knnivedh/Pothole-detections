@@ -199,7 +199,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)
+- 📧 **Email**: [nivedhbhat15@gmail.com](mailto:nivedhbhat15@gmail.com)
 - 🐛 **Issues**: [GitHub Issues](https://github.com/Knnivedh/Pothole-detections/issues)
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/Knnivedh/Pothole-detections/discussions)
 
