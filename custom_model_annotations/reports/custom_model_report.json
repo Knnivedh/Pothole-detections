@@ -1,0 +1,19 @@
+{
+  "custom_model_results": {
+    "model_used": "C:\\Users\\Gourav Bhat\\Downloads\\archive\\best.pt",
+    "total_images": 658,
+    "processed_images": 658,
+    "total_detections": 2230,
+    "average_detections_per_image": 3.3890577507598785,
+    "average_confidence": 0.536,
+    "class_distribution": {
+      "pothole": 2230
+    }
+  },
+  "quality_metrics": {
+    "high_confidence_detections": 302,
+    "medium_confidence_detections": 862,
+    "low_confidence_detections": 1066
+  },
+  "timestamp": "2025-09-26T23:34:06.979412"
+}

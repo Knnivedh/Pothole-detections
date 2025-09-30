@@ -1,0 +1,1 @@
+CUSTOM PRE-TRAINED MODEL RESULTS\n========================================\n\nModel: C:\Users\Gourav Bhat\Downloads\archive\best.pt\nImages processed: 658\nTotal detections: 2,230\nAverage per image: 3.4\nAverage confidence: 0.536\n\nCLASS DISTRIBUTION:\n  pothole: 2,230\n
