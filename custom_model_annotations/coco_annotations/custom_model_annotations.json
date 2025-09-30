@@ -1,0 +1,18 @@
+{
+  "info": {
+    "description": "Custom Pre-trained Model Pothole Dataset",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "Custom Trained Model",
+    "date_created": "2025-09-26T23:34:06.965704"
+  },
+  "categories": [
+    {
+      "id": 1,
+      "name": "pothole",
+      "supercategory": "road_defect"
+    }
+  ],
+  "images": [],
+  "annotations": []
+}
